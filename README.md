@@ -18,7 +18,7 @@ This game has three game modes:
 This is the terminal version of the game. In each game mode the player who starts the game is selected at random.
 
 <p align="center">
-  <img src="images\tic_tac_toe - preview.gif" alt="Tic Tac Toe console version" width="750" height="500">
+  <img src="images\tic_tac_toe - preview.gif" alt="Tic Tac Toe console version" width="650" height="400">
   <div align="center"><em>Tic Tac Toe console version</em></div>
 </p>
 
