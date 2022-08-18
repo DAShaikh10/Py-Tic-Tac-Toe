@@ -6,6 +6,7 @@
 [![Last commit][last-commit-shield]][last-commit-url]
 [![Code size][code-size-shield]][code-url]
 ![Awesome badges][awesome-badges-shield]
+![Visitors][visitors-badge]
 
 # **Tic Tac Toe - Minimax + α-β optimization (Alpha-beta pruning)**
 
@@ -64,3 +65,4 @@ Click [here](AI.md) to read more.
 [code-size-shield]: https://img.shields.io/github/languages/code-size/DAShaikh10/Tic-Tac-Toe
 [code-url]: https://github.com/DAShaikh10/Tic-Tac-Toe
 [awesome-badges-shield]: https://img.shields.io/badge/badges-awesome-green.svg
+[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=DAShaikh10/Tic-Tac-Toe
