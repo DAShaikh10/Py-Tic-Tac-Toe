@@ -125,10 +125,10 @@ class AI:
         for position, item in enumerate(board):
             if item.strip().isdigit():
                 board[position] = self.symbol
-                currrent_move_val = self._minimax(board, False, -50, 50, 0)
+                current_move_val = self._minimax(board, False, -50, 50, 0)
                 board[position] = str(position + 1) + " "
-                if currrent_move_val > best_move_val:
-                    best_move_val = currrent_move_val
+                if current_move_val > best_move_val:
+                    best_move_val = current_move_val
                     best_move = position
 
         # AI play's it's turn.
